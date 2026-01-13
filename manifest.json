@@ -1,0 +1,18 @@
+
+{
+  "name": "Life Dots",
+  "short_name": "LifeDots",
+  "description": "Visualize your life progress one dot at a time.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "https://img.icons8.com/color/512/dot.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

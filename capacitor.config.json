@@ -1,0 +1,10 @@
+
+{
+  "appId": "com.lifedots.app",
+  "appName": "Life Dots",
+  "webDir": ".",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}
